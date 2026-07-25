@@ -1,56 +1,62 @@
-# Hi, I'm <YOUR NAME>! 👋
+<div align="center">
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+# Elena
+### Engenharia Química · Data Analytics & Engineering Analytics
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@dominio.com)
 
-## 🚀 About Me
+</div>
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
+---
 
-## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
+## Sobre
 
+Estudante do último ano de Engenharia Química (8º semestre), com experiência prática em gestão da qualidade na indústria aeronáutica e formação em metodologias de melhoria de processos — Lean Manufacturing, Six Sigma e Teoria das Restrições (TOC). Atualmente em formação complementar em Data Analytics, Engineering Analytics e Inteligência Artificial, com interesse em aplicar ferramentas de dados e machine learning a problemas de processos industriais.
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+## Formação
 
-## 🌱 Currently Exploring
+| Curso | Status |
+|---|---|
+| Engenharia Química | 8º semestre — previsão de conclusão em [ano] |
+| Data Analytics, Engineering Analytics & IA | Em andamento |
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
+## Experiência
 
- ## 🏆 Achievements
+**Estágio em Gestão da Qualidade — Indústria Aeronáutica**
+Aplicação de metodologias Lean, Six Sigma e Teoria das Restrições em contexto de manufatura regulada, com foco em controle e melhoria contínua de processos.
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+## Competências
 
+**Melhoria de processos**
+`Lean Manufacturing` `Six Sigma` `Teoria das Restrições (TOC)` `SPC` `Gestão da Qualidade`
 
-## 📬 Get in Touch
+**Dados e análise**
+`Python` `SQL` `Excel Avançado`
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+**Desenvolvimento**
+`HTML` `CSS` `JavaScript` `PostgreSQL` `Supabase` `Netlify` `Git`
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+## Projetos em destaque
 
+### Plataforma de Produtividade Pessoal (Full-stack)
+Sistema de produtividade pessoal com mecânica de gamificação, combinando uma planilha Excel multi-abas com uma interface web dedicada. Arquitetura full-stack com banco de dados relacional (Supabase / PostgreSQL) e deploy contínuo via Netlify.
+`Excel` `HTML/CSS/JS` `PostgreSQL` `Supabase` `Netlify`
 
+### Comparação entre SPC Clássico e Machine Learning para Detecção de Falhas — TCC (em andamento)
+Trabalho de conclusão de curso comparando métodos multivariados clássicos de Controle Estatístico de Processos com modelos de Machine Learning para detecção de falhas, utilizando o dataset Tennessee Eastman Process (TEP), com análise conduzida sob a ótica de Six Sigma e Teoria das Restrições.
+`Python` `SPC` `Machine Learning` `Six Sigma`
 
-<!--
+## Estatísticas do GitHub
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default&hide_border=true&hide_title=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=default&hide_border=true)
+
+</div>
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@dominio.com)
