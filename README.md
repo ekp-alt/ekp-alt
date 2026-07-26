@@ -16,8 +16,8 @@ Estudante do penultimo ano de Engenharia Química, com experiência prática em 
 
 ## Formação
 
-| Curso | Status |
-|---|---|
+| Curso | Instituição | Status |
+|---|---|---|
 | Engenharia Química | UFSC | Em andamento |
 | Data Analytics, Engineering Analytics & IA | Indicium AI Academy | Em andamento |
 | Excel para Ciência de Dados - Avançado | FGV Online | Jul. 2026 |
