@@ -12,14 +12,16 @@
 
 ## Sobre
 
-Estudante do último ano de Engenharia Química (8º semestre), com experiência prática em gestão da qualidade na indústria aeronáutica e formação em metodologias de melhoria de processos — Lean Manufacturing, Six Sigma e Teoria das Restrições (TOC). Atualmente em formação complementar em Data Analytics, Engineering Analytics e Inteligência Artificial pelo programa de especialização Lighthouse da [Indicium Academy](https://www.linkedin.com/company/indicium-ai/), com interesse em aplicar ferramentas de dados e machine learning a problemas de processos industriais.
+Estudante do penultimo ano de Engenharia Química, com experiência prática em gestão da qualidade na indústria aeronáutica e formação em metodologias de melhoria de processos — Lean Manufacturing, Six Sigma e Teoria das Restrições (TOC). Atualmente em formação complementar em Data Analytics, Engineering Analytics e Inteligência Artificial pelo programa de especialização Lighthouse da [Indicium Academy](https://www.linkedin.com/company/indicium-ai/), com interesse em aplicar ferramentas de dados e machine learning a problemas de processos industriais.
 
 ## Formação
 
 | Curso | Status |
 |---|---|
-| Engenharia Química | 8º semestre — previsão de conclusão em [ano] |
-| Data Analytics, Engineering Analytics & IA | Em andamento |
+| Engenharia Química | UFSC | Em andamento |
+| Data Analytics, Engineering Analytics & IA | Indicium AI Academy | Em andamento |
+| Excel para Ciência de Dados - Avançado | FGV Online | Jul. 2026 |
+| Introdução às Redes Complexas, com aplicações, utilizando Python e IA/LLM | USP | Jan. 2025 |
 
 ## Experiência
 
